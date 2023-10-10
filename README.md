@@ -1,5 +1,24 @@
 # MTH-IDS
 Multi Hybrid Intrusion Detection System for Zero-day attack Detection
 
-Critical industries such as manufacturing, power generation, and intelligent transportation are increasingly using IIoT systems, making these industries more susceptible to cyberattacks. To counter these cyberattacks, policymakers have made strong guidelines, and various security provisions like secure authentication and encryption mechanisms as effective countermeasures for these systems. The exponential rise in cyberattacks has proven that all these measures are not sufficient to protect IIoT systems and have certain limitations. Considering theprogress in Artificial Intelligence, it is widely acknowledged that Machine learning (ML) based intrusion detection systems (IDS) hold significant potential for identifying these cyberattacks. Numerous ML-based IDS have been proposed,which are capable of detecting known attacks but fail to recognize unknown or zero-day attacks; hence, this issue is one of the most important things to worry about for cyber professionals. One of the most prominent concerns in the cyber
-industry is how threat intelligence could be used to provide protection against zero-day exploits and advanced persistent threats (APTs) in IIoT environments. A hybrid multi stage Intrusion Detection System (HMS-IDS) has been proposed which is driven by supervised and unsupervised approach to identify both known 1 and zero-day cyberattacks in IIoT environments. Through meticulous evaluation on the esteemed CIC-ToN-IoT dataset, the proposed IDS model attains staggering levels of accuracy, reaching an impressive 99.49% in detecting known attacks and an exceptional 98.936% in identifying unknown attacks. These compelling findings unequivocally substantiate the system’s efficacy in real-time detection of malicious cyber incursions targeting IIoT devices, thereby underscoring its tremendous potential for wide-scale implementation and practical deployment. 
+Description:
+The Hybrid Multi-Stage Intrusion Detection System (HMS-IDS) is an advanced cybersecurity solution designed to protect Industrial Internet of Things (IIoT) environments in critical industries, including manufacturing, power generation, and intelligent transportation. This project aims to address the growing threat landscape posed by cyberattacks, particularly zero-day exploits and advanced persistent threats (APTs).
+
+Key Features:
+- Utilizes state-of-the-art machine learning techniques
+- Identifies known and unknown cyberattacks in real-time
+- Enhances the security of IIoT devices and critical infrastructure
+- Achieves impressive accuracy rates: 99.49% for known attacks and 98.936% for zero-day attacks
+- Highly effective in wide-scale implementation and practical deployment
+
+Why HMS-IDS?
+With the exponential rise in cyberattacks targeting IIoT systems, traditional security measures are no longer sufficient. HMS-IDS represents a crucial step forward in safeguarding critical industries by providing robust threat detection capabilities.
+
+How to Contribute:
+We welcome contributions from cybersecurity experts, machine learning enthusiasts, and anyone passionate about enhancing IIoT security. You can get involved by:
+- Forking this repository
+- Submitting bug reports or feature requests
+- Contributing code enhancements or bug fixes
+- Joining our community discussions
+
+Let's collaborate to fortify the defenses of IIoT environments and protect critical industries from evolving cyber threats.
